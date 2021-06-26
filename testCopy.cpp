@@ -2,8 +2,6 @@
 
 int main()
 {
-    #ifdef DEBUG
-        std::cout<<"test for linux!"<<std::endl;
-    #endif
+    std::cout<<"change sth"<<std::endl;
     return 0;
 }
